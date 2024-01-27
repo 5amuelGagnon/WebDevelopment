@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Information about Green Endurance Coaching, a first-class training center for athletes in Montreal.">
+    <title>Green Endurance Coaching</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <img src="/images/triumph_logo.png" alt="Triumph Logo">
+        </header>
+        <aside id="left-sidebar">
+            <h2>Links</h2>
+            <ul>
+                <li><a href="gec_home.html">Home</a></li>
+                <li><a href="gec_run.html">Running</a></li>
+                <li><a href="gec_bike.html">Cycling</a></li>
+                <li><a href="gec_swim.html">Swimming</a></li>
+                <li><a href="gec_coach.html">Coaches</a></li>
+            </ul>    
+            <br>
+            <ul>
+                <li class="newgroup"><a href="http://www.active.com/">Active.com</a></li>
+                <li><a href="http://www.runnersworld.com/">Runner's World</a></li>
+                <li><a href="https://www.endomondo.com/">endomondo.com</a></li>
+                <li><a href="http://www.strava.com/">Strava</a></li>
+                <li><a href="http://www.bicycling.com/">Bicycling Magazine</a></li>
+                <li><a href="http://velonews.competitor.com/">VeloNews</a></li>
+                <li><a href="http://bicycletutor.com/">Bicycle Tutor</a></li>
+                <li><a href="http://www.swimsmooth.com/">Swim Smooth</a></li>
+                <li><a href="http://www.swimmingworldmagazine.com/">Swimming World</a></li>
+                <li><a href="http://www.usaswimming.org/">USA Swimming</a></li>
+            </ul>    
+            <br>
+            <ul>
+                <li class="newgroup"><a href="http://www.triathlon.org/">triathlon.org</a></li>
+                <li><a href="http://www.usatriathlon.org/">usatriathlon.org</a></li>
+                <li><a href="http://www.trifind.com/tx.html">Texas Triathlons</a></li>
+                <li><a href="http://www.captextri.com/">CapTex Triathlon</a></li>
+                <li><a href="http://www.trifind.com/">Triathlon Calendar</a></li>
+                <li><a href="http://triathlon.competitor.com/">Triathlete.com</a></li>
+                <li><a href="http://www.trifuel.com/">Trifuel.com</a></li>
+            </ul>	      
+        </aside>
+        <main id="home-main">
+            <h1 id="home-h1">About <abbr title="Green Endurance Coaching">GEC</abbr></h1>
+            <img src="/images/gec_photo1.png" alt="Two women doing yoga and smiling." style="float: right; max-height: 20em;">
+            <p>Since 2012, <strong>Green Endurance Coaching</strong> has provided Montreal with a first class training center for athletes of all abilities and goals. We specialize in helping you reach your full potential. You tell us what you want to do; we work to fulfill your needs.</p>
+            <p>Want to swim? Great! Interested in improving your cycling? Fantastic! Want to tackle a triathlon? We're there for you: before, during, and after the race. Or do you just want to get more fit? We are on it. We customize our instruction to match your goals. And you will finish what you start.</p>
+            <h2 id="home-h2">Classes</h2>
+            <p>Winter instruction starts soon. Get a jump on your summer goals by joining us for individual or group instruction in:</p>
+            <p><img src="/images/runicon.png" alt="Run icon."> <strong>Running</strong>: We start with the basics to help you run faster and farther than you ever thought possible without aches and pains.
+                <br><img src="/images/bikeicon.png" alt="Bike icon."> <strong>Cycling</strong>: The indoor bike trainers at <abbr title="Green Endurance Coaching">GEC</abbr> include everything you need to refine your technique, stamina, and power for improved results on the road.
+                <br><img src="/images/swimicon.png" alt ="Swim icon."> <strong>Swimming</strong>: The open water swim can be one of the most frightening sports to master. Our classes begin with basic techniques so that your swim can be very enjoyable, and not a chore.</p>
+            <p>Contact us to set up individual instruction and assessment.</p>
+            <h2 id="home-h3">Our Philosophy</h2>
+            <p>Athletes are the foundation of every successful training program. The best coach is an experienced guide who begins with each athlete's hopes, dreams and desires and then tailors a training plan based on that individuals’s current fitness and lifestyle. Since 2012, GEC has helped hundreds of individuals achieve success in many fitness areas. The winner is not the one who finishes first but anyone who starts the race and perseveres. Join us and begin exploring the possible.</p>
+     
+        </main>
+        <aside id="right-sidebar">
+            <h2>Comments</h2>
+            <p>"Thank you for all that you have done. I am amazed at my progress. I realize that I have l lofty goals but you have me well on my way."</p>
+            <p>"Simal kept me focused working toward my dreams. She fosters a supportive and caring environment for growth as an athlete and as a person. Thank you!"</p>
+            <p>"You do it right! Your track record proves it. Proud to be a <abbr title="Green Endurance Coaching">GEC</abbr> athlete and I'm honored to have you all as my coaches and support team."</p>
+            <p>"The coaches at <abbr title="Green Endurance Coaching">GEC</abbr> treat you with the highest respect: whether you're an individual getting off the couch for the first time or an elite athlete training for the Iron Man. They know their stuff."</p>
+            <p>"I just completed my first marathon, following your fitness schedule to the letter. Never once did I come close to bonking and two days later I felt ready for another race!"</p>
+        </aside>
+        <footer id="footer">
+            <p><span>G</span>reen <span>E</span>ndurance <span>C</span>oaching • <span>7233-ABC</span> d'<span>A</span>ragon <span>S</span>treet • <span>M</span>ontreal, <span>QC H4E 3B7</span> • <span>(514) 555-5555</span></p>
+        </footer>
+    </div>
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Cycling training sessions at GEC.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Improving your Cycling</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <img src="/images/triumph_logo.png" alt="Triumph Logo">
+        </header>
+        <aside id="left-sidebar">
+            <ul>
+                <li><a href="gec_home.html">Home</a></li>
+                <li><a href="gec_run.html">Running</a></li>
+                <li><a href="gec_bike.html">Cycling</a></li>
+                <li><a href="gec_swim.html">Swimming</a></li>
+                <li><a href="gec_coach.html">Coaches</a></li>
+            </ul>
+        </aside>
+        <main id="main">
+            <h1>Improving your Cycling</h1>
+            <p><abbr title="Green Endurance Coaching">GEC</abbr> offers its 10<sup>th</sup> indoor season of cycle training this winter. Bring in your road bike and connect it to our VirtualRoad cycling trainer. VirtualRoad is a fully equipped system with over 250 courses providing real-time feedback on power, heart rate, speed, and stroke efficiency. The first weeks will include a lot of low intensity cycling and stroke analysis to build a strong base for later classes. This is a fully coached course led by Simal Green, MA, CSCS, USAT Level II and David Young, BS, USAT Level I. Our GEC Coaches will not be working out while you are; they will be focusing on improving your form during your workout for you to get the best results. By the end of the course we will move into workouts of greater intensity and duration to prepare for the upcoming summer.</p>
+            <p>The course meets for 90 minutes twice a week. You have the choice among the following morning and evening sessions:</p>
+            <ul>
+                <li>6:00 AM - 7:30 AM <abbr title="Monday and Wednesday">(MW)</abbr> </li>
+                <li>5:00 PM - 6:30 PM <abbr title="Tuesday and Thursday">(TR)</abbr> </li>
+                <li>7:00 PM - 8:30 PM <abbr title="Wednesday and Friday">(WF)</abbr> </li>
+            </ul>
+            <h2 id="headings">Course Outline</h2>
+            <p>Make sure you bring your road bike to all classes. We do not have spare bike for you to use!</p>
+            <ol type="I">
+                <li>Week 1
+                    <ol type="A">
+                        <li>Orientation
+                            <ol type="1">
+                                <li>Bike Fitting</li>
+                                <li>Learning about the Trainer</li>
+                                <li>Interpreting Biofeedback</li>
+                            </ol>
+                        </li>    
+                        <li>Your Cycling Posture</li>
+                        <li>Stroke Analysis</li>
+                        <li>Initial Time Trial</li>    
+                    </ol>
+                </li>    
+                <li>Week 2
+                    <ol type="A">
+                        <li>Stroke Analysis</li>
+                        <li>Proper Pedaling Technique</li>
+                        <li>Improving your Cadence</li>
+                    </ol>
+                </li>    
+                <li>Week 3
+                    <ol type="A">
+                        <li>Power Analysis</li>
+                        <li>Lactate Thresholds</li>  
+                    </ol>
+                </li>    
+                <li>Week 4
+                    <ol type="A">
+                        <li>Power Intervals Phase 1</li>
+                        <li>Power Intervals Phase 2</li>
+                        <li>Hill Climbing</li>
+                    </ol>
+                </li>    
+                <li>Week 5
+                    <ol type="A">
+                        <li>Stroke Analysis</li>
+                        <li>Efficiency Drills</li>
+                        <li>Recovery Cycling</li>
+                    </ol>
+                </li>    
+                <li>Week 6
+                    <ol type="A">
+                        <li>Understanding Pace lines</li>
+                        <li>Aerodynamics</li>
+                        <li>Power Intervals Phase 3</li>
+                    </ol>
+                </li>    
+                <li>Week 7
+                    <ol type="A">
+                        <li>Endurance Cycling</li>
+                        <li>Endurance Test 1</li>
+                        <li>Endurance Test 2</li>
+                    </ol>
+                </li>      
+                <li>Week 8
+                    <ol type="A">
+                        <li>Mastering Sprints</li>
+                        <li>Time Trial Assessments</li>
+                        <li>Getting Ready for the Outdoors
+                            <ol type="1">
+                                <li>Bicycle Maintenance</li>
+                                <li>Roadside Repairs</li>
+                                <li>Team Cycling</li>
+                                <li>Hydration and Nutrition</li>
+                            </ol>
+                        </li>    
+                    </ol> 
+                </li>                              
+            </ol>
+        </main>
+        <footer id="footer">
+            <p><span>G</span>reen <span>E</span>ndurance <span>C</span>oaching • <span>7233-ABC</span> d'<span>A</span>ragon <span>S</span>treet • <span>M</span>ontreal, <span>QC H4E 3B7</span> • <span>(514) 555-5555</span></p>
+        </footer>
+    </div>      
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Information about the GEC guided running and racing program.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guided Running and Racing</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <img src="/images/triumph_logo.png" alt="Triumph Logo">
+        </header>
+        <aside id="left-sidebar">
+            <ul>
+                <li><a href="gec_home.html">Home</a></li>
+                <li><a href="gec_run.html">Running</a></li>
+                <li><a href="gec_bike.html">Cycling</a></li>
+                <li><a href="gec_swim.html">Swimming</a></li>
+                <li><a href="gec_coach.html">Coaches</a></li>
+            </ul>
+        </aside>
+        <main id="main">
+            <h1>Guided Running and Racing</h1>
+            <p>The <abbr title="Green Endurance Coaching">GEC</abbr> running program is designed is to guide and motivate runners to a personal best in their run training and racing. The training program is heavily coached and has a moderately aggressive approach to achieving your personal best. We will educate you on proper running form, biomechanics, training, nutrition and mental toughness</p>
+            <p>You will work with a <abbr title="Green Endurance Coaching">GEC</abbr> coach twice weekly to help you accomplish your goals and you'll have the companionship of others reaching for similar goals. At times, we'll have assistant coaches to decrease the coach to athlete ratio for a higher quality experience. Spend your workouts completing track workouts, hills repeats tempo runs, strength/power running, endurance strength training, and more. Each week will challenge you, and be tailored towards your goals from sprint races, 5K runs, or full-distance marathons.</p>
+            <p>The course meets for 90 minutes twice a week. You have the choice among the following morning and evening sessions:</p>
+            <ul>
+                <li>11:30 AM - 1:00 PM <abbr title="Monday and Wednesday">(MW)</abbr></li>
+                <li>5:00 PM - 6:30 PM <abbr title="Tuesday and Thursday">(TR)</abbr></li>
+            </ul>
+            <h2 id="headings">Course Outline</h2>
+            <p>The running class will meet at the Falk Running Center and, when weather permits, we'll be outside at the Falk Running Track.</p>
+            <ol type="I">
+                <li>Week 1
+                    <ul>
+                        <li>Orientation
+                            <ol type="1">
+                                <li>Setting a Goal</li>
+                                <li>Group Running</li>
+                                <li>Clothing and Shoes</li>
+                                <li>Danger Zones</li>
+                            </ol>
+                        </li>    
+                        <li>Initial Assessment 
+                            <ol type="1">
+                                <li>Gait Assessment</li>
+                                <li>Power Measure</li>
+                                <li>Time Trial</li>
+                            </ol>
+                        </li>    
+                        <li>Stretching Techniques</li>    
+                    </ul>
+                </li>    
+                <li>Week 2
+                    <ul>
+                        <li>Wind Sprints</li>
+                        <li>Recovery</li>
+                        <li>Building your Core</li>
+                    </ul>
+                </li>    
+                <li>Week 3
+                    <ul>
+                        <li>Wind Sprints 2</li>
+                        <li>Stretching Session</li>  
+                        <li>Yoga and Running</li>
+                    </ul>
+                </li>    
+                <li>Week 4
+                    <ul>
+                        <li>Mid-range Running 1</li>
+                        <li>Mid-range Running 2</li>
+                    </ul>
+                </li>    
+                <li>Week 5
+                    <ul>
+                        <li>Hill Repeats 1</li>
+                        <li>Recovery Runs</li>
+                        <li>Stretching</li>
+                    </ul>
+                </li>    
+                <li>Week 6
+                    <ul>
+                        <li>Weight Training and Running</li>
+                        <li>Hill Repeats 2</li>
+                        <li>Building a Base</li>
+                    </ul>
+                </li>    
+                <li>Week 7
+                    <ul>
+                        <li>Preparing for 5K Race</li>
+                        <li>5K Simulation 1</li>
+                        <li>5K Simulation 2</li>
+                    </ul>
+                </li>      
+                <li>Week 8
+                    <ul>
+                        <li>Preparing for a Marathon</li>
+                        <li>Building and Recovering</li>
+                        <li>Final Assessment</li>
+                        <li>Final Time Trials</li>
+                    </ul>  
+                </li>                             
+            </ol>
+        </main>
+        <footer id="footer">
+            <p><span>G</span>reen <span>E</span>ndurance <span>C</span>oaching • <span>7233-ABC</span> d'<span>A</span>ragon <span>S</span>treet • <span>M</span>ontreal, <span>QC H4E 3B7</span> • <span>(514) 555-5555</span></p>
+        </footer>
+    </div>  
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Swimming for fitness at GEC.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swim for Fitness</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <img src="/images/triumph_logo.png" alt="Triumph Logo">
+        </header>
+        <aside id="left-sidebar">
+            <ul>
+                <li><a href="gec_home.html">Home</a></li>
+                <li><a href="gec_run.html">Running</a></li>
+                <li><a href="gec_bike.html">Cycling</a></li>
+                <li><a href="gec_swim.html">Swimming</a></li>
+                <li><a href="gec_coach.html">Coaches</a></li>
+            </ul>
+        </aside>
+        <main id="main">
+            <h1>Swim for Fitness</h1>
+            <p><abbr title="Green Endurance Coaching">GEC</abbr> coaches take a scientific approach to swimming. We believe in providing knowledge, motivation, confidence and support for any athlete who want to improve his or her swimming abilities. The secret of swimming lies in proper technique and efficiency to move through the water with speed and efficiency. We keep our class sizes low so our coaches can maximize the time spent on one-to-one instruction.</p>
+            <p>We offer three instruction times this winter:</p>
+            <ul>
+                <li>6:00 AM - 7:00 AM <abbr title="Tuesday and Thursday">(TR)</abbr></li>
+                <li>5:00 PM - 6:00 PM <abbr title="Monday and Wednesday">(MW)</abbr></li>
+                <li>5:00 PM - 6:00 PM <abbr title="Tuesday and Thursday">(TR)</abbr></li>
+            </ul>
+            <h2 id="headings">Course Outline</h2>
+            <p>Arrive at the Tollaf Natatorium 10 minutes before class to ensure that swim instruction begins on schedule.</p>
+            <ol type="I">
+                <li>Week 1
+                    <ol type="A">
+                        <li>Swim Evaluation
+                            <ol type="1">
+                                <li>Posture</li>
+                                <li>Stroke Assessment</li>
+                                <li>Endurance Measure</li>
+                            </ol>
+                        </li>    
+                        <li>Stretching Exercises</li>
+                        <li>Body Position Drills</li>  
+                    </ol>
+                </li>    
+                <li>Week 2
+                    <ol type="A">
+                        <li>Sculling Drills</li>
+                        <li>Body Rotation Drills</li>
+                        <li>Arm Position Drills</li>
+                    </ol>
+                </li>    
+                <li>Week 3
+                    <ol type="A">
+                        <li>Breathing Techniques</li>
+                        <li>Kick board Workouts</li>
+                        <li>Sculling Drills</li>  
+                        <li>Mid-class Assessment</li>
+                    </ol>
+                </li>    
+                <li>Week 4
+                    <ol type="A">
+                        <li>Endurance Drills</li>
+                        <li>Body Position Drills</li>
+                        <li>Kick board Workouts</li>
+                        <li>Sculling Drills 2</li>
+                    </ol>
+                </li>    
+                <li>Week 5
+                    <ol type="A">
+                        <li>Sprint Techniques</li>
+                        <li>Body Rotation Drills</li>
+                        <li>Relay Races</li>
+                    </ol>
+                </li>    
+                <li>Week 6
+                    <ol type="A">
+                        <li>Endurance Swim</li>
+                        <li>Final Assessment
+                            <ol type="1">
+                                <li>Posture</li>
+                                <li>Stroke Assessment</li>
+                                <li>Endurance Measure</li>
+                            </ol>
+                        </li>    
+                    </ol>
+                </li>                               
+            </ol>
+        </main>
+        <footer id="footer">
+            <p><span>G</span>reen <span>E</span>ndurance <span>C</span>oaching • <span>7233-ABC</span> d'<span>A</span>ragon <span>S</span>treet • <span>M</span>ontreal, <span>QC H4E 3B7</span> • <span>(514) 555-5555</span></p>
+        </footer>
+    </div>
+    
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Information about the coaches at GEC.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meet our Coaches</title>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+     <div id="container">
+        <header id="header">
+            <img src="/images/triumph_logo.png" alt="Triumph Logo">
+        </header>
+        <aside id="left-sidebar">
+            <ul>
+                <li><a href="gec_home.html">Home</a></li>
+                <li><a href="gec_run.html">Running</a></li>
+                <li><a href="gec_bike.html">Cycling</a></li>
+                <li><a href="gec_swim.html">Swimming</a></li>
+                <li><a href="gec_coach.html">Coaches</a></li>
+            </ul> 
+            <br>  
+            <ul>
+                <li class="newgroup"><a href="http://www.active.com/">Active.com</a></li>
+                <li><a href="http://www.runnersworld.com/">Runner's World</a></li>
+                <li><a href="https://www.endomondo.com/">endomondo.com</a></li>
+                <li><a href="http://www.strava.com/">Strava</a></li>
+                <li><a href="http://www.bicycling.com/">Bicycling Magazine</a></li>
+                <li><a href="http://velonews.competitor.com/">VeloNews</a></li>
+                <li><a href="http://bicycletutor.com/">Bicycle Tutor</a></li>
+                <li><a href="http://www.swimsmooth.com/">Swim Smooth</a></li>
+                <li><a href="http://www.swimmingworldmagazine.com/">Swimming World</a></li>
+                <li><a href="http://www.usaswimming.org/">USA Swimming</a></li>
+            </ul>
+            <br>
+            <ul>
+                <li class="newgroup"><a href="http://www.triathlon.org/">triathlon.org</a></li>
+                <li><a href="http://www.usatriathlon.org/">usatriathlon.org</a></li>
+                <li><a href="http://www.trifind.com/tx.html">Texas Triathlons</a></li>
+                <li><a href="http://www.captextri.com/">CapTex Triathlon</a></li>
+                <li><a href="http://www.trifind.com/">Triathlon Calendar</a></li>
+                <li><a href="http://triathlon.competitor.com/">Triathlete.com</a></li>
+                <li><a href="http://www.trifuel.com/">Trifuel.com</a></li>
+            </ul>
+        </aside>
+        <main id="main">
+            <h1 style="color: rgb(236, 224, 210)">Meet our Coaches</h1>
+            <p id="special-box"><span style="font-size: 18px;">"</span>I have been given great feedback and encouragement by the TSS coaches. This last winter I took part in the Winter Cycling class and it made a huge difference to my spring rides. The coaches are caring professionals and they know their business.<span style="font-size: 18px;">"</span></p>
+            <p>Our mission at TSS is to help you reach your athletic goals through motivation, support, and education. We have years of experience with athletes of all ages and abilities and we're happy to assist any athlete committed to pursuing his or her dreams.</p>
+            <p>We offer one-on-one coaching, evaluation, and instruction; but we also offer small group practices. Our classes are never large in number. We believe that a low coach-to-athlete ratio provides the best results in the shortest time.</p>
+            <p>Come in and introduce yourself to our team of coaches and educators.</p>
+            
+            <h2 id="coach-h2">Simal Green</h2>
+            <p><img src="/images/check.png" alt="MA, CSCS, USAT Level II Coach">
+                <br><img src="/images/check.png" alt="Exercise Physiologist and Biomechanic Specialist">
+                <br><img src="/images/check.png" alt="Owner of Tri and Succeed Sports">
+            </p>
+            <img id="coach1" src="/images/coach1.png" alt="Photo of Simal Green. A woman in a pink track suite holding a chronometer and smiling to the camera." style="float: left; max-height: 29em; margin-right: 20px;"> 
+            <p>Simal brings an extensive background in physiology and biomechanics to TSS and 18 years of experience coaching in the health and fitness field. She is a USA Triathlon Level II Certified coach and is certified in strength, conditioning, and bike fitting. Before founding Tri and Succeed Sports, Simal built a private training studio for local athletes.</p>
+            <p>Simal was a lettered volleyball player at the University of Texas and she picked up the sport of triathlon after graduation. Triathlons have been her passion ever since. She has competed in many short- to long-distance running, cycling, and triathlon events including multiple races in IM Texas, IM Brazil, and IM Chicago.</p>
+            
+            <p>Simal wants to provide personalized instruction to her athletes. She believes an educated athlete is an athlete primed for success. Under her instruction, you will learn not only what to do but why to do it.</p> 
+            
+            <h2 id="coach-h3">Kevin Hughes</h2>  
+            <p><img src="/images/check.png" alt="BS, USAT Level I">
+                <br><img src="/images/check.png" alt="Kinesiologist">
+            </p>
+            <img src="/images/coach2.png" alt="Photo of Kevin Hughes. A man sitting by a swimming pool, wearing a white polo shirt and white and blue cap, smiling to the camera" style="float: left; max-height: 29em; margin-right: 20px;">
+            <p>Kevin is a student of body mechanics. In addition to a Bachelor's degree in Kinesiology, Kevin brings certification in Swim Instruction and coaching. He has coached numerous recreational and elite athletes, including Sprint and Ironman triathletes.</p>
+            <p>In addition to coaching individual athletes, Kevin has coached a variety of teams and groups. Kevin coached Swimming and Cross Country at Austin High School and Palmer Country Day School. As Head Coach, his swim teams set school records in 9 out of 11 events, won the Mid-Texas Conference Championship, and consistently finished in the top 3 at the Small School State meet. Kevin currently coaches the Masters swim classes at TSS.</p>
+            <p>Since being talked into his first triathlon at 16, Kevin has always enjoyed the challenge the sport provides. His motivation comes from the desire to improve himself, not the desire to beat others. Starting as a middle of the pack athlete, his initial goal was to work his way through the distances which culminated with an Ironman finish in 2010. Bill remains a student of the sport while helping others achieve their fitness and racing goals.</p>
+            
+            <h2 id="coach-h4">Tammy Whitmore</h2>
+            <p><img src="/images/check.png" alt="USAT Level I">
+                <br><img src="/images/check.png" alt="Certified Triathlon Trainer">
+                <br><img src="/images/check.png" alt="Certified Nutritionist">
+            </p>
+            <img src="/images/coach3.png" alt="Photo of Tammy Whitmore. A woman in white attire standing outdoors smiling at the camera." style="float: left; max-height: 29em; margin-right: 20px;">
+            <p>Fitness has always been a part of Tammy's life. Whether it was running, cycling, or strength conditioning she has dedicated herself to fitness and a healthy lifestyle. Trained as a mechanical designer, Tammy has designed commercial strength products used in health clubs around the country. Her interests led her to TSS, first as one of our athletes and then, 4 years ago, as a member of the staff.</p>
+            <p>After completing her USAT certification training, Tammy designed the course of workouts we use with our runners and cyclists. Tammy is also our nutritionist; she believes that reaching one's fitness goals requires a holistic approach in which what goes into the body is as important as what comes out.</p>
+            <p>Coming from an engineering background, Tammy looks at things from an analytical point of view. Recently Tammy completed two seminars on cycling with power meters. Tammy believes in continuing education and has set her sights on receiving her USAT Level II certification and USAT youth coaching certification.</p>
+        </main>
+        <footer id="footer">
+            <p><span>G</span>reen <span>E</span>ndurance <span>C</span>oaching • <span>7233-ABC</span> d'<span>A</span>ragon <span>S</span>treet • <span>M</span>ontreal, <span>QC H4E 3B7</span> • <span>(514) 555-5555</span></p>
+        </footer>
+    </div>
+    
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+@charset "utf-8";
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    background-color: rgb(233, 178, 133)
+}
+
+#container {
+    width: 1020px;
+    margin: auto;
+    background-color:  rgb(255, 255, 241);
+}
+
+#left-sidebar ul li{
+    list-style-type: none;
+}
+
+#left-sidebar ul li a {
+    margin: 20px;
+    padding: 20px, 20px, 20px, 20px;
+    line-height: 2em;
+}
+
+#left-sidebar ul li a:link {
+    text-decoration: none;
+    color:rgba(119, 122, 127, 0.7);
+}
+
+#left-sidebar ul li a:visited {
+    color:rgba(39, 39, 39, 0.7);
+}
+
+#left-sidebar ul li a:hover {
+    color:rgba(136, 57, 57, 0.7);
+}
+
+#left-sidebar ul li a:active {
+    color:rgba(0, 0, 0, 0.7);
+}
+
+#left-sidebar {
+    background-color: rgb(255, 255, 241);
+    font-size: small;
+    width: 20%;
+    margin: auto;
+    padding: auto;
+    height: 100%;
+    float: left;
+    overflow: auto;
+}
+
+#left-sidebar h2, #right-sidebar h2 {
+    margin: 20px;
+    padding: 20px, 20px, 20px, 20px;
+    line-height: 2em;
+    color:rgba(39, 39, 39, 0.7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: lighter;
+    letter-spacing: 3px;
+}
+
+#main {
+    width: auto;
+    color:rgba(38, 38, 38, 0.6);
+    font-size: 1rem;
+    background-color: rgb(255, 255, 241);
+    margin: 0 0 10px 0;
+    padding:1em;
+    height: auto;
+    float: middle;
+    overflow: auto;
+}
+
+#main p{
+    padding: 5px;
+}
+
+#main h1 {
+    background-color: rgb(176, 125, 93);
+    color: rgb(255, 255, 241);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+#main ol, #main ul {
+    margin: 2em;
+  }
+  
+#main li {
+    line-height: 10px;
+    margin: 0.5em 0;
+  }
+
+#home-main{
+    width: 55%;
+    color:rgba(38, 38, 38, 0.6);
+    font-size: 1rem;
+    background-color: rgb(255, 255, 241);
+    margin: 0 0 10px 0;
+    padding:1em;
+    height: auto;
+    float: left;
+    overflow: auto;
+}
+
+#home-main p{
+    padding: 5px;
+    
+}
+
+#home-h1{
+    background-color: rgb(202, 114, 63);
+    color: rgb(255, 255, 241);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+
+#home-h2{
+    background-color: rgb(226, 179, 138);
+    color: rgb(255, 255, 241);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+/*this was add*/
+#home-h3{
+    background-color: rgb(226, 179, 138);
+    color: rgb(255, 255, 241);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+#headings{
+    background-color: rgb(176, 125, 93);
+    color: rgb(255, 255, 241);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+#coach-h2{
+    color:rgb(241, 152, 85);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+/*this was add*/
+#coach-h3{
+    color:rgb(241, 152, 85);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+/*this was add*/
+#coach-h4{
+    color:rgb(241, 152, 85);
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+#right-sidebar{
+margin: 5px;
+padding: 20px, 20px, 20px, 20px;
+}
+
+#right-sidebar p{
+    font-size: small;
+    color: rgba(215, 135, 75, 0.8);
+    margin: 2px 5px 1px 0;
+    padding:1em;
+    
+}
+
+#special-box {
+    float: right;
+    background-color: rgb(215, 135, 75);
+    color: rgb(236, 224, 210);
+    font-family: anelo, fantasy;
+    padding: 10px;
+    margin-left: 20px;
+    width: 275px;
+  }
+
+#footer {
+    width: 1020px;
+    background-color: rgb(215, 135, 75);
+    height: 30px;
+    clear: both;
+    text-align: center;
+    color: rgb(236, 224, 210);
+    font-size: 0.6em;
+    font-family: Uni Sans;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#footer span {
+    font-size: 1.5em;
+  }
